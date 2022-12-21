@@ -22,7 +22,7 @@ a lot of expensive operations come out in the case of millions of files.
 1. Deletes older INT day --mtime
 2. Deletes nested directories if they are completely empty.
 
-Launch example.
+Launch example. 
 
 python delete_entry.py --folder /home/folder --mtime 10
 
