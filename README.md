@@ -32,12 +32,12 @@ Feature:
 
 FYI
 1) It can load the processor and disks, 
-so it may be useful to use the squeak in conjunction with nice/ionice utilities.
+so it may be useful to use together in conjunction with nice/ionice utilities.
 2) The script can be run with legacy pyhon2 and also with python3. 
 The difference is that the `scandir` module is already included in python3, 
 and python2 needs an additional pip - `scandir` package. 
-If this is the problem, the creak will inform you.
+If this is the problem, the script will inform you.
 
 At the end of the work, a report is displayed.
 
-developed by https://t.me/bot_36
+developed by https://t.me/bot_63
