@@ -41,3 +41,6 @@ If this is the problem, the script will inform you.
 At the end of the work, a report is displayed.
 
 developed by https://t.me/bot_63
+
+it is best used for cleaning (also search tag)
+bitrix resize_cache tmp sessions old cache 
